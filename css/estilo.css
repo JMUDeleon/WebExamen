@@ -1,0 +1,126 @@
+body
+{
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: "Helvetica",aria;
+
+}
+
+#contenido
+{
+	text-align: center;
+}
+
+a
+{
+	color: #234BCD;
+}
+
+nav ul li
+{
+	font-weight: bold;
+	border-style: solid;
+	background-color: #FFFFFF;
+	display: inline-block;
+	margin-right: 10px;
+	color: #1E1B1B;
+	border-color: #BD32C2;
+	border-radius: 10px;
+	padding: 10px;
+
+}
+
+#simple
+{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	background-color: #FFFFFF;
+}
+
+#derechos
+{
+	color: #000000;
+	text-align: left;
+}
+
+.contacto
+{
+	border-style: solid;
+	border-color: #000000;
+	margin: auto;
+	width: 600px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #fff6f1;
+}
+
+.contacto h1
+{
+	font-size: large;
+	text-align: justify;
+}
+
+.contacto h2
+{
+	font-size: small;
+	text-align: justify;
+}
+
+.historia
+{
+	border-style: solid;
+	border-color: #000000;
+	margin: auto;
+	width: 600px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #fff6f1;
+}
+
+.historia h1
+{
+	font-size: xx-large;
+	text-align: center;
+}
+
+.historia h2
+{
+	font-size: large;
+	text-align: justify;
+}
+
+.categoria
+{
+	border-style: solid;
+	border-color: #000000;
+	margin: auto;
+	width: 600px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #fff6f1;
+}
+
+.categoria h1
+{
+	font-size: xx-large;
+	text-align: justify;
+}
+
+.productos
+{
+	border-style: solid;
+	border-color: #000000;
+	margin: auto;
+	width: 600px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #fff6f1;
+}
+
